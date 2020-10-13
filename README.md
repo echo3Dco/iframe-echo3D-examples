@@ -1,5 +1,5 @@
-# Embed echoAR into Website or App with iframe
-HTML example files to embed echoAR into a website or an app using iframe.
+# iframe-echoAR-examples
+HTML example files that show how to embed echoAR into a website or an app using iframe.
 
 ## Register
 If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
